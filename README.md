@@ -4,7 +4,7 @@ Code is purposefully obfuscated and shortened to fit on the rear side of a busin
 
 
 Sample output (may not be up to date):
-
+```
  ------------------------------------------------------------ 
 |                                                            |
 |                                                            |
@@ -32,4 +32,4 @@ Sample output (may not be up to date):
 |if( f.is_open()){while(getline(f,l)){m=a[1];c(m.replace(1,  |
 |l.length(),l));}f.close();c(a[0]);}}                        |
  ------------------------------------------------------------ 
-
+```
