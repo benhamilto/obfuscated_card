@@ -4,7 +4,7 @@
 std::string l,m="",a[6]={" --------------------------------"
 "---------------------------- \n","|                       "
 "                                     |\n","Ben Hamilton",
-"P: {PHONE_NUMBER}","E: benhamilton10@gmail.com"};int main(){c
+"P: ***-***-****","E: benhamilton10@gmail.com"};int main(){c
 (a[0]);std::ifstream f; f.open("prog.cpp");for(int i = 0;i<
 12 ;i++){m = a[1];c((i==2?m.replace(5,12,a[2]):i==7?
 m.replace(5,15,a[3]):i==8?m.replace(5,26,a[4]):m));}c(a[0]);
