@@ -1,7 +1,6 @@
-Just a dumb program that prints a basic business card to the console.
-
-Code is purposefully obfuscated and shortened to fit on the rear side of a business card.
-
+Just a simple program that prints a basic business card to the console.
+Looks at its own source and formats it along with contact information. 
+The code is purposefully obfuscated and shortened to fit on the rear side of a business card.
 
 Sample output (may not be up to date):
 ```
